@@ -28,6 +28,7 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 - [Encoding Time-Series Explanations through Self-Supervised Model Behavior Consistency](https://arxiv.org/pdf/2306.02109.pdf)
 - [Can Attention Be Used to Explain EHR-Based Mortality Prediction Tasks](https://arxiv.org/pdf/2308.05110.pdf)
 - [BasisFormer](https://openreview.net/pdf?id=xx3qRKvG0T) <!--Nips2024-->
+- [Global TimeSeries Coherence Matrices](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9564126)
 
   
 # Github repositories
@@ -35,7 +36,7 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 - [ATTATTR](https://github.com/YRdddream/attattr) *NLP Task <!--related to our research question of time series-->
 - [Time2Vec](https://github.com/ojus1/Time2Vec-PyTorch)
 - [BasisFormer](https://github.com/nzl5116190/Basisformer)
-- 
+- [Global TimeSeries Coherence Matrices](https://github.com/cslab-hub/GlobalTimeSeriesCoherenceMatrices)
   
 
 

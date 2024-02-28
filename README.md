@@ -21,6 +21,7 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 - [Interpreting Time Series Transformer Models and Sensitivity Analysis](https://arxiv.org/pdf/2401.15119.pdf)
 - [Time2Vec](https://arxiv.org/pdf/1907.05321.pdf)
 - [Self-Attention Attribution](https://arxiv.org/pdf/2004.11207.pdf)* NLP
+- [Transformers in Time Series: A Survey](https://arxiv.org/pdf/2202.07125.pdf)
 
 # Interpretable transformers for time series data: papers
 - [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/pdf/1912.09363.pdf)

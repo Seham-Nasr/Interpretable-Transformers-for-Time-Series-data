@@ -31,7 +31,7 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 - [Global TimeSeries Coherence Matrices](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9564126)
 - [AntroPy](https://ceur-ws.org/Vol-2993/paper-20.pdf)
 - [Temporal Saliency Detection Towards Explainable Transformer-based Timeseries Forecasting](https://link.springer.com/chapter/10.1007/978-3-031-50396-2_14)
-- [transformers explainability](https://openaccess.thecvf.com/content/CVPR2021/papers/Chefer_Transformer_Interpretability_Beyond_Attention_Visualization_CVPR_2021_paper.pdf)
+-<!-- [transformers explainability](https://openaccess.thecvf.com/content/CVPR2021/papers/Chefer_Transformer_Interpretability_Beyond_Attention_Visualization_CVPR_2021_paper.pdf) -->
 
   
 # Github repositories
@@ -42,7 +42,7 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 - [Global TimeSeries Coherence Matrices](https://github.com/cslab-hub/GlobalTimeSeriesCoherenceMatrices)
 - [AntroPy](https://github.com/raphaelvallat/antropy)
 - [Temporal Saliency Detection](https://github.com/duongtrung/time-series-temporal-saliency-patterns/tree/main)
-- [transformers explainability](https://github.com/hila-chefer/Transformer-Explainability)
+- <!-- [transformers explainability](https://github.com/hila-chefer/Transformer-Explainability)-->
   
 
 

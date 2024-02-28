@@ -23,7 +23,7 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 # Interpretable transformers for time series data: papers
 - [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/pdf/1912.09363.pdf)
 - [Encoding Time-Series Explanations through Self-Supervised Model Behavior Consistency](https://arxiv.org/pdf/2306.02109.pdf)
-- 
+- [Can Attention Be Used to Explain EHR-Based Mortality Prediction Tasks](https://arxiv.org/pdf/2308.05110.pdf)
 
 
 

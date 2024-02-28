@@ -1,7 +1,7 @@
 # Interpretable-Transformers-for-Time-Series-data
 A collection of resources to study Interpretable Transformers for Time Series data
 
-# tutorials, lectures, and talks
+# Tutorials, lectures, and talks
 A good starting point is to study some introductory tutorials, lectures, and talks
 
 - [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!](https://youtu.be/zxQyTK8quyY?t=2](https://youtu.be/zxQyTK8quyY?t=2)https://youtu.be/zxQyTK8quyY?t=2)
@@ -20,13 +20,14 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 - [Long-Range Transformers for Dynamic Spatiotemporal Forecasting](https://arxiv.org/pdf/2109.12218.pdf)
 - [Interpreting Time Series Transformer Models and Sensitivity Analysis](https://arxiv.org/pdf/2401.15119.pdf)
 
-# Github repositories
-- [perturbation-based interpretation method](https://github.com/UVA-MLSys/COVID-19-age-groups)
-  
 # Interpretable transformers for time series data: papers
 - [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/pdf/1912.09363.pdf)
 - [Encoding Time-Series Explanations through Self-Supervised Model Behavior Consistency](https://arxiv.org/pdf/2306.02109.pdf)
 - [Can Attention Be Used to Explain EHR-Based Mortality Prediction Tasks](https://arxiv.org/pdf/2308.05110.pdf)
 
+  
+# Github repositories
+- [perturbation-based interpretation method](https://github.com/UVA-MLSys/COVID-19-age-groups)
+  
 
 

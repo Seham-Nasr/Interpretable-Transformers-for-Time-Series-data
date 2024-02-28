@@ -14,11 +14,14 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 - [interpretable transformer](https://towardsdatascience.com/tft-an-interpretable-transformer-70147bcf6212)
 - [Temporal Fusion Transformers](https://research.google/pubs/temporal-fusion-transformers-for-interpretable-multi-horizon-time-series-forecasting/)
 - [How to Apply Transformers to Time Series Models](https://medium.com/intel-tech/how-to-apply-transformers-to-time-series-models-spacetimeformer-e452f2825d2e)
-- [Interpreting Time Series Transformer](https://arxiv.org/html/2401.15119v1)
-- 
+ 
 # Literature Review papers
 - [Transformers in Time-Series Analysis: A Tutorial](https://arxiv.org/pdf/2205.01138.pdf)
 - [Long-Range Transformers for Dynamic Spatiotemporal Forecasting](https://arxiv.org/pdf/2109.12218.pdf)
+- [Interpreting Time Series Transformer Models and Sensitivity Analysis](https://arxiv.org/pdf/2401.15119.pdf)
+
+# Github repositories
+- [perturbation-based interpretation method](https://github.com/UVA-MLSys/COVID-19-age-groups)
   
 # Interpretable transformers for time series data: papers
 - [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/pdf/1912.09363.pdf)

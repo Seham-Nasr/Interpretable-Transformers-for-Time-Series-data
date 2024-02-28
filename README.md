@@ -31,6 +31,8 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 # Github repositories
 - [perturbation-based interpretation method](https://github.com/UVA-MLSys/COVID-19-age-groups) <!-- This work doesn't have new methods, it's good as a reference or reference for the baseline experiments-->
 - [ATTATTR](https://github.com/YRdddream/attattr) *NLP Task <!--related to our research question of time series-->
+- [Time2Vec](https://github.com/ojus1/Time2Vec-PyTorch)
+- 
   
 
 

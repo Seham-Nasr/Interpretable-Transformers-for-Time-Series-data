@@ -20,7 +20,7 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 - [Long-Range Transformers for Dynamic Spatiotemporal Forecasting](https://arxiv.org/pdf/2109.12218.pdf)
 - [Interpreting Time Series Transformer Models and Sensitivity Analysis](https://arxiv.org/pdf/2401.15119.pdf)
 - [Time2Vec](https://arxiv.org/pdf/1907.05321.pdf)
-- [Self-Attention Attribution](https://arxiv.org/pdf/2004.11207.pdf)*
+- [Self-Attention Attribution](https://arxiv.org/pdf/2004.11207.pdf)* NLP
 
 # Interpretable transformers for time series data: papers
 - [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/pdf/1912.09363.pdf)
@@ -29,7 +29,8 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 
   
 # Github repositories
-- [perturbation-based interpretation method](https://github.com/UVA-MLSys/COVID-19-age-groups) <!-- This work doesn't have new methods, it's good as a reference or use it for the baselines experiments-->
+- [perturbation-based interpretation method](https://github.com/UVA-MLSys/COVID-19-age-groups) <!-- This work doesn't have new methods, it's good as a reference or reference for the baseline experiments-->
+- [ATTATTR](https://github.com/YRdddream/attattr) *NLP Task <!--related to our research question of time series-->
   
 
 

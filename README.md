@@ -30,6 +30,7 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 - [BasisFormer](https://openreview.net/pdf?id=xx3qRKvG0T) <!--Nips2024-->
 - [Global TimeSeries Coherence Matrices](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9564126)
 - [AntroPy](https://ceur-ws.org/Vol-2993/paper-20.pdf)
+- [Temporal Saliency Detection Towards Explainable Transformer-based Timeseries Forecasting](https://link.springer.com/chapter/10.1007/978-3-031-50396-2_14)
 
   
 # Github repositories
@@ -39,6 +40,7 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 - [BasisFormer](https://github.com/nzl5116190/Basisformer)
 - [Global TimeSeries Coherence Matrices](https://github.com/cslab-hub/GlobalTimeSeriesCoherenceMatrices)
 - [AntroPy](https://github.com/raphaelvallat/antropy)
+- [Temporal Saliency Detection](https://github.com/duongtrung/time-series-temporal-saliency-patterns/tree/main)
   
 
 

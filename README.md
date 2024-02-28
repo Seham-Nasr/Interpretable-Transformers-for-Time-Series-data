@@ -32,6 +32,7 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 - [AntroPy](https://ceur-ws.org/Vol-2993/paper-20.pdf)
 - [Temporal Saliency Detection Towards Explainable Transformer-based Timeseries Forecasting](https://link.springer.com/chapter/10.1007/978-3-031-50396-2_14)
 - [Explainable Multivariate Deep Transformer for Stock Prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4713443)
+- [Explainable Health Risk Predictor with Transformer-based Medicare Claim Encoder](https://arxiv.org/pdf/2105.09428.pdf)
 -<!-- [transformers explainability](https://openaccess.thecvf.com/content/CVPR2021/papers/Chefer_Transformer_Interpretability_Beyond_Attention_Visualization_CVPR_2021_paper.pdf) -->
 
 

@@ -4,6 +4,7 @@ A collection of resources to study Interpretable Transformers for Time Series da
 # Tutorials, lectures, and talks
 A good starting point is to study some introductory tutorials, lectures, and talks
 
+- [Transformers: The best idea in AI](https://youtu.be/9uw3F6rndnA?t=479)
 - [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!](https://youtu.be/zxQyTK8quyY?t=2](https://youtu.be/zxQyTK8quyY?t=2)https://youtu.be/zxQyTK8quyY?t=2)
 - [What are Transformers (Machine Learning Model)?](https://www.youtube.com/watch?v=ZXiruGOCn9s&pp=ygUndHJhbnNmb3JtZXJzIG1hY2hpbmUgbGVhcm5pbmcgZXhwbGFpbmVk)
 - [Transformer models and BERT model: Overview](https://youtu.be/t45S_MwAcOw?t=35)

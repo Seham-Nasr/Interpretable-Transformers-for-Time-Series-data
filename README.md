@@ -35,6 +35,7 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 - [Explainable Multivariate Deep Transformer for Stock Prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4713443)
 - [Explainable Health Risk Predictor with Transformer-based Medicare Claim Encoder](https://arxiv.org/pdf/2105.09428.pdf)
 -<!-- [transformers explainability](https://openaccess.thecvf.com/content/CVPR2021/papers/Chefer_Transformer_Interpretability_Beyond_Attention_Visualization_CVPR_2021_paper.pdf) -->
+- [localAndGlobalJournal: Extracting Interpretable Local and Global Representations from Attention on Time Series](https://ui.adsabs.harvard.edu/abs/2023arXiv231211466S/abstract)
 
 
   
@@ -47,6 +48,7 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 - [AntroPy](https://github.com/raphaelvallat/antropy)
 - [Temporal Saliency Detection ^](https://github.com/duongtrung/time-series-temporal-saliency-patterns/tree/main) <!-- implemented on illness data -->
 - <!-- [transformers explainability](https://github.com/hila-chefer/Transformer-Explainability)-->
+- [localAndGlobalJournal](https://github.com/cslab-hub/localAndGlobalJournal)
   
 
 

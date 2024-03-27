@@ -37,7 +37,7 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 -<!-- [transformers explainability](https://openaccess.thecvf.com/content/CVPR2021/papers/Chefer_Transformer_Interpretability_Beyond_Attention_Visualization_CVPR_2021_paper.pdf) -->
 - [localAndGlobalJournal: Extracting Interpretable Local and Global Representations from Attention on Time Series](https://ui.adsabs.harvard.edu/abs/2023arXiv231211466S/abstract)
 
-# Transformer Attention Mechanism for TS
+## Transformer Attention Mechanism for TS
 - [Channel-Wise Attention] (https://arxiv.org/pdf/2402.10198v2.pdf)
 - 
 

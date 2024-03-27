@@ -38,7 +38,7 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 - [localAndGlobalJournal: Extracting Interpretable Local and Global Representations from Attention on Time Series](https://ui.adsabs.harvard.edu/abs/2023arXiv231211466S/abstract)
 
 ### Transformer Attention Mechanism for TS
-- [Channel-Wise Attention] (https://arxiv.org/pdf/2402.10198v2.pdf)
+- [Channel-Wise Attention](https://arxiv.org/pdf/2402.10198v2.pdf)
 - 
 
   

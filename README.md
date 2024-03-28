@@ -48,6 +48,7 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 - [Recurrence and Self-Attention](https://userweb.cs.txstate.edu/~amk181/AIME_LSTM_Attention_vs_Transformer.pdf)
 - [Differential Attention](https://arxiv.org/ftp/arxiv/papers/2202/2202.11402.pdf)
 - [Attention Augmented](https://arxiv.org/ftp/arxiv/papers/2202/2202.11402.pdf)
+- [Abstracting Local Transformer Attention](https://ceur-ws.org/Vol-2993/paper-20.pdf)
 
   
 # Github repositories

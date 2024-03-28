@@ -47,6 +47,7 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 - [CORRELATED ATTENTION](https://arxiv.org/pdf/2311.11959.pdf)
 - [Recurrence and Self-Attention](https://userweb.cs.txstate.edu/~amk181/AIME_LSTM_Attention_vs_Transformer.pdf)
 - [Differential Attention](https://arxiv.org/ftp/arxiv/papers/2202/2202.11402.pdf)
+- [Attention Augmented](https://arxiv.org/ftp/arxiv/papers/2202/2202.11402.pdf)
 
   
 # Github repositories

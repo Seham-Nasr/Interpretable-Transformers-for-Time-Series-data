@@ -39,7 +39,14 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 
 ### Transformer Attention Mechanism for TS
 - [Channel-Wise Attention](https://arxiv.org/pdf/2402.10198v2.pdf)
-- 
+- [DBAFormer](https://link.springer.com/content/pdf/10.1007/s44230-023-00037-z.pdf)
+- [TACTiS](https://proceedings.mlr.press/v162/drouin22a/drouin22a.pdf)
+- [Graph Attention Transformer](https://ceur-ws.org/Vol-3343/paper3.pdf)
+- [InParformer](https://ojs.aaai.org/index.php/AAAI/article/view/25845)
+- [Bidformer](https://ieeexplore.ieee.org/document/10394310)
+- [CORRELATED ATTENTION](https://arxiv.org/pdf/2311.11959.pdf)
+- [Recurrence and Self-Attention](https://userweb.cs.txstate.edu/~amk181/AIME_LSTM_Attention_vs_Transformer.pdf)
+- [Differential Attention](https://arxiv.org/ftp/arxiv/papers/2202/2202.11402.pdf)
 
   
 # Github repositories
@@ -52,7 +59,11 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 - [Temporal Saliency Detection ^](https://github.com/duongtrung/time-series-temporal-saliency-patterns/tree/main) <!-- implemented on illness data -->
 - <!-- [transformers explainability](https://github.com/hila-chefer/Transformer-Explainability)-->
 - [localAndGlobalJournal](https://github.com/cslab-hub/localAndGlobalJournal)
+
+  
 - [Channel-Wise Attention](https://github.com/romilbert/samformer)
+- [TACTiS](https://github.com/servicenow/tactis)
+- [Recurrence and Self-Attention](https://github.com/imics-lab/recurrence-with-self-attention)
   
 
 

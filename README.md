@@ -49,6 +49,7 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 - [Differential Attention](https://arxiv.org/ftp/arxiv/papers/2202/2202.11402.pdf)
 - [Attention Augmented](https://arxiv.org/ftp/arxiv/papers/2202/2202.11402.pdf)
 - [Abstracting Local Transformer Attention](https://ceur-ws.org/Vol-2993/paper-20.pdf)
+- [Show me what you're looking for](https://scholar.google.com/scholar?q=Show+Me+What+You%27re+Looking+For+Visualizing+Abstracted+Transformer+Attention+for+Enhancing+Their+Local+Interpretability+on+Time+Series+Data.)
 
   
 # Github repositories

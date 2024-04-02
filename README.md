@@ -65,9 +65,9 @@ A good starting point is to study some introductory tutorials, lectures, and tal
 
   
 - [Channel-Wise Attention](https://github.com/romilbert/samformer)
-- [TACTiS](https://github.com/servicenow/tactis)
+- [TACTiS](https://github.com/servicenow/tactis)^ <!--Data Augmentation: Copulas might be used to generate synthetic data points that preserve the dependency structure of the original data, which can then be used for data augmentation in tasks like sequence generation or anomaly detection.-->
 - [Recurrence and Self-Attention](https://github.com/imics-lab/recurrence-with-self-attention)
-- [Samformer](https://github.com/romilbert/samformer)
+- [Samformer](https://github.com/romilbert/samformer)^
 - [TSAT](https://github.com/RadiantResearch/TSAT)
   
 
